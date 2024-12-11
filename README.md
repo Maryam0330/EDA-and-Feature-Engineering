@@ -6,7 +6,7 @@ The dataset contains data related to red and white variants of Portuguese "Vinho
 
 ---
 
-## **2. Flight Price Prediction - EDA and Feature Engineering**
+## **2. Flight Price Prediction - Feature Engineering**
 The dataset contains various features related to flights, such as the source city, departure time, arrival time, destination city, etc. The task involved performing feature engineering to handle these different columns. The goal was to convert all the categorical features into numerical values, making the dataset ready for training a machine learning model.
 The feature engineering process transformed these categorical features into numerical features, preparing the dataset for use in a machine learning model.
 
